@@ -35,7 +35,7 @@ Las que hay:
 
 | las tipeás vos | |
 |---|---|
-| `/iniciar-proyecto` | Entrevista y arma el `CLAUDE.md` y el `specs/` de un proyecto nuevo |
+| `/comenzar` | Prepara un proyecto para trabajar así: el `CLAUDE.md` y el `specs/`. Detecta solo si es nuevo o si ya tiene código, y toma el camino que corresponde |
 | `/grillar` | Interrogatorio por rondas hasta que no quede rama sin resolver |
 | `/revisar` | Revisión en varios ejes, con un agente por eje en paralelo |
 
@@ -53,7 +53,7 @@ con el mismo oficio, que es más fácil de recordar que "revisor-de-convenciones
 **`bitacora/` — el porqué.** Las skills dicen qué hacer; acá está el caso medido que
 hizo que cada regla exista. Más abajo hay una advertencia importante sobre esto.
 
-**`skills/iniciar-proyecto/plantillas/` — los documentos** que todo proyecto nuevo
+**`skills/comenzar/plantillas/` — los documentos** que todo proyecto nuevo
 recibe, ya escritos, para llenar con una entrevista y no a mano.
 
 ---
@@ -87,7 +87,13 @@ tipo de cosas. Tomá el de acá como ejemplo y escribí el tuyo.
 
 Esta es la parte que más rinde y la que más se saltea.
 
-**1. Abrí tu proyecto y corré `/iniciar-proyecto`.**
+**1. Abrí tu proyecto y corré `/comenzar`.**
+
+Sirve igual para un proyecto nuevo y para uno que ya tiene código: **mira qué hay y
+elige el camino solo**, porque elegir mal tiene un costo real y no es trabajo de
+quien recién llega. En uno nuevo las convenciones son una decisión que se toma; en
+uno empezado son un hecho que ya está en el código y hay que ir a leer — y ahí lo
+primero que hace es no pisar nada de lo que encuentre.
 
 Se corre **una vez por proyecto**. Lo primero que hace no es escribir: es
 **entrevistarte**. Te va a preguntar qué es el proyecto y para quién, qué **no**

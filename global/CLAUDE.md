@@ -4,7 +4,7 @@ Esto se carga en **cada sesión, en cualquier carpeta**, así que es corto a pro
 solo lo que tiene que aplicar siempre. Las disciplinas completas viven en las skills
 (`mutacion`, `verificar-de-verdad`, `documentar-decision`, `dos-caminos`,
 `medir-antes-de-resolver`, `auditar-contra-la-fuente`, `tdd`) y se alcanzan solas
-cuando corresponde. `/grillar`, `/revisar` e `/iniciar-proyecto` las tipeo yo.
+cuando corresponde. `/grillar`, `/revisar` y `/comenzar` las tipeo yo.
 
 - **Español rioplatense.**
 - **El commit lo decido yo.** Terminá el trabajo, verificalo y reportá el estado

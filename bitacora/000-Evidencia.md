@@ -23,7 +23,7 @@ ganaron y cuáles todavía se afirman.
 | `documentar-decision` | Revertir una recomendación propia costó un párrafo, porque las premisas estaban escritas aparte del resultado. | [[una-decision-escrita-se-puede-revertir]] |
 | `tdd` | Escribir el arreglo antes que el test dejó **escapar una mutación**. | [[el-test-va-antes-que-el-arreglo]] |
 | `grillar` | — | sin evidencia medida todavía |
-| `iniciar-proyecto` | — | sin evidencia medida todavía |
+| `comenzar` | — | sin evidencia medida todavía |
 
 Las dos últimas filas no son un pendiente: son información. Una disciplina que
 todavía no se ganó su caso se sigue usando, pero se revisa con más ganas.
